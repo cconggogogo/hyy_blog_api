@@ -11,7 +11,7 @@
 
 此 blog-react-admin 项目是基于 [蚂蚁金服开源的 Blog Admin](https://pro.ant.design/index-cn) 之上，用 react 全家桶 + Blog Admin  的进行再次开发的，项目已经开源，项目地址在 github 上。
 
-效果预览 [http://www.huyangyang.cn:81/)
+效果预览 [http://www.huyangyang.cn:80/)
 
 
 ## 已实现功能
@@ -144,7 +144,7 @@ https://pro.ant.design/docs/authority-management-cn
 
 **项目地址：**
 
-> [前台展示: http://www.huyangyang.cn:81/)
+> [前台展示: http://www.huyangyang.cn:80/)
 
 > [后台展示: http://www.huyangyang.cn:444/)
 
