@@ -59,7 +59,7 @@ exports.GITHUB = {
 
 	// 请把生产环境的 redirect_url，client_id 和 client_secret 中的 "****", 换成自己创建的 OAuth App 的具体参数即可。
 	// // 生产环境
-    redirect_uri: 'http://www.huyangyang.cn:80/login',
+    redirect_uri: 'http://www.huyangyang.cn/login',
     client_id: 'e28cdff4af8aae4b5750',
     client_secret: 'ec98cf755627fdc59755abc1802865234a471709',
 
